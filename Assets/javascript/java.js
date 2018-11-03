@@ -7,49 +7,49 @@ $(document).ready(function () {
 		question: "Which NFL QB has the most Super Bowl Rings?", 
 		choice: ["Eli Manning", "Tom Brady", "Dan Marino", "Ben Roethlisberger"],
 		answer: 1,
-		photo: "assets/images/tom_brady.gif"
+		photo: "Assets/images/tom_brady.gif"
 	 },
 	 {
 	 	question: "What is the highest-grossing film of all time?", 
 		choice: ["Avatar", "Titanic", "Gone with the Wind", "Star Wars: The Force Awakens"],
 		answer: 0,
-		photo: "assets/images/avatar.jpg"
+		photo: "Assets/images/avatar.jpg"
 	 }, 
 	 {
 	 	question: "The longest word in any of the major English language dictionaries is pneumonoultramicroscopicsilicovolcanoconiosis, what does it refer to?", 
 		choice: ["Heart Disease", "Rectum Infection", "Lung Disease", "Brain Disease" ],
 		answer: 2,
-		photo: "assets/images/well_damn.gif"
+		photo: "Assets/images/well_damn.gif"
 	}, 
 	{
 		question: "In which Asian country is the city of Chiang Mai located?", 
 		choice: ["China", "Japan", "Thailand", "Mongolia" ],
 		answer: 2,
-		photo: "assets/images/chiang_mai.jpg"
+		photo: "Assets/images/chiang_mai.jpg"
 	}, 
 	{
 		question: "Who is the only basketball player to score 100 points in a single NBA game?", 
 		choice: ["Kobe Bryant", "Michael Jordan", "Larry Bird", "Wilt Chamberlain" ],
 		answer: 3,
-		photo: "assets/images/wilt.gif"
+		photo: "Assets/images/wilt.gif"
 	}, 
 	{
 		question: "What is the Patronus of Harry Potter?", 
 		choice: ["Faun", "Stag", "Fish", "Owl" ],
 		answer: 1,
-		photo: "assets/images/stag.gif"
+		photo: "Assets/images/stag.gif"
 	}, 
 	{
 		question: "What is the heaviest element?", 
 		choice: ["Magnesium", "Uranium", "Givemerum", "Lolonium" ],
 		answer: 1,
-		photo: "assets/images/uranium.gif"
+		photo: "Assets/images/uranium.gif"
 	}, 
 	{
 		question: "What color are aircraft black boxes?", 
 		choice: ["Orange", "Black", "Red", "Green" ],
 		answer: 0,
-		photo: "assets/images/blackbox.jpg"
+		photo: "Assets/images/blackbox.jpg"
 	}];
 
 var correctCount = 0;
